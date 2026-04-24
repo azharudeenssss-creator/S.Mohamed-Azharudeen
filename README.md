@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 `Rizq (رِزْق) i`
 
 <table>
 <tr>
