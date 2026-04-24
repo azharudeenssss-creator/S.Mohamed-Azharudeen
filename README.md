@@ -113,7 +113,7 @@ const Azhar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=azharudeenssss-creator&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Abi-de-jo&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 <br/>
