@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I’m a full-stack developer focused on building real-world applications that are fast, scalable, and clean.
+I'm a full-stack developer focused on building real-world applications that are fast, scalable, and clean.
 
 - 💻 Working with React, Next.js, Node.js  
 - 🧠 Exploring AI and DevOps  
@@ -25,6 +25,10 @@ I’m a full-stack developer focused on building real-world applications that ar
 ---
 
 ## 🧠 Quick Snapshot
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```ts
 const Azhar = {
@@ -36,6 +40,7 @@ const Azhar = {
   learning: ["AI Integration", "DevOps"],
   availableForWork: true,
 };
+```
 
 </td>
 <td width="45%" align="center" valign="top">
@@ -46,19 +51,16 @@ const Azhar = {
 </tr>
 </table>
 
-
-
-
-
 ---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/azharsparkz)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-azharudeen-/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazharudeen616@gmail.com)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azharudeenssss-creato)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/azharsparkz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-azharudeen-/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazharudeen616@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azharudeenssss-creator)
 
 </div>
 
@@ -109,12 +111,12 @@ const Azhar = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abi-de-jo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Abi-de-jo&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=azharudeenssss-creator&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" />
+<img width="49%" src="https://streak-stats.demolab.com?user=azharudeenssss-creator&theme=github-dark&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-de-jo&theme=github_dark&hide_border=true&layout=donut&border_radius=12" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharudeenssss-creator&theme=github_dark&hide_border=true&layout=donut&border_radius=12" />
 
 </div>
 
@@ -123,7 +125,7 @@ const Azhar = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abi-de-jo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azharudeenssss-creator&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
@@ -131,7 +133,7 @@ const Azhar = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00bcd4&point=ffffff&area=true&area_color=00bcd4&hide_border=true&radius=8" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azharudeenssss-creator&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00bcd4&point=ffffff&area=true&area_color=00bcd4&hide_border=true&radius=8" width="100%"/>
 </div>
 
 ---
@@ -140,9 +142,9 @@ const Azhar = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Abi-de-jo/Abi-de-jo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azharudeenssss-creator/azharudeenssss-creator/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azharudeenssss-creator/azharudeenssss-creator/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/azharudeenssss-creator/azharudeenssss-creator/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -176,7 +178,7 @@ const Azhar = {
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abi-de-jo&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=azharudeenssss-creator&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 ---
@@ -187,6 +189,6 @@ const Azhar = {
 
 **"First, solve the problem. Then, write the code."** — John Johnson
 
-*Built with ❤️ & ☕ by Abi*
+*Built with ❤️ & ☕ by Azhar*
 
 </div>
