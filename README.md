@@ -1,49 +1,41 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abisheik%20(Abi)&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%20Tech%20Educator%20%7C%20Builder%20🚀&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=S.Mohamed%20Azharudeen&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Building%20Real-World%20Apps&descAlignY=65&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5A0&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Crafting+blazing-fast+UIs+%E2%9A%A1;Engineering+secure+%26+scalable+APIs+%F0%9F%94%90;Turning+coffee+into+code+%E2%98%95%F0%9F%92%BB;Full-Stack+%40+RentInTbilisi+%F0%9F%8C%8D;Automating+everything+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&height=50&lines=Crafting+fast+and+clean+UIs;Building+secure+APIs;Turning+coffee+into+code;Full-Stack+Developer;Always+learning" />
 
 <br/>
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=Abi-de-jo&style=for-the-badge&color=00bcd4&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Abi-de-jo?style=for-the-badge&color=00f5a0&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=azharudeenssss-creator&style=for-the-badge&color=00bcd4&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/azharudeenssss-creator?style=for-the-badge&color=00f5a0&label=FOLLOWERS"/>
 
 </div>
 
 ---
 
-## 🧠 `whoami`
+## 👋 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+I’m a full-stack developer focused on building real-world applications that are fast, scalable, and clean.
+
+- 💻 Working with React, Next.js, Node.js  
+- 🧠 Exploring AI and DevOps  
+- ⚙️ I automate repetitive work  
+- 🤝 Open to work and collaborations  
+
+---
+
+## 🧠 Quick Snapshot
 
 ```ts
-const abi = {
-  name: "Abisheik (Abi)",
+const Azhar = {
+  name: "S.Mohamed Azharudeen",
   role: "Full-Stack Developer",
-  company: "RentInTbilisi",
-  location: "Building on the internet",
-  stack: [
-    "React", "Next.js",
-    "TypeScript", "Node.js",
-    "Prisma", "GraphQL"
-  ],
-  database: [
-    "MongoDB", "PostgreSQL", "Redis"
-  ],
-  exploring: [
-    "AI Integration",
-    "DevOps", "Edge Computing"
-  ],
-  funFact: "I automate everything 🤖",
+  location: "Tamil Nadu, India",
+  stack: ["React", "Next.js", "TypeScript", "Node.js"],
+  databases: ["MongoDB", "PostgreSQL", "Redis"],
+  learning: ["AI Integration", "DevOps"],
   availableForWork: true,
 };
-```
 
 </td>
 <td width="45%" align="center" valign="top">
