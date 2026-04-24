@@ -115,20 +115,6 @@ const Azhar = {
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=azharudeenssss-creator&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00bcd4&point=ffffff&area=true&area_color=00bcd4&hide_border=true&radius=8" width="100%"/> </div>
 
----
-
-## 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azharudeenssss-creator/azharudeenssss-creator/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azharudeenssss-creator/azharudeenssss-creator/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/azharudeenssss-creator/azharudeenssss-creator/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
 ## 💻 Battle Station
 
 <div align="center">
@@ -155,10 +141,14 @@ const Azhar = {
 ---
 Top Contributed Repos
 <div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=azharudeenssss-creator&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" /> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
 
-"First, solve the problem. Then, write the code."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn">
+</p>
 
-Built with ❤️ & ☕ by Azharudeen
+<p align="center"><b>"First, solve the problem. Then, write the code."</b></p>
 
-</div> ```
+<p align="center">Built with ❤️ & ☕ by <b>Azharudeen</b></p>
+
+</div> 
