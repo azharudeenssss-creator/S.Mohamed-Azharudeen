@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=S.Mohamed Azharudeen%20(S.Mohamed Azharudeen)&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%20Tech%20Educator%20%7C%20Builder%20🚀&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=S.Mohamed%20Azharudeen&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Educator%20%7C%20Building%20Real-World%20Apps&descAlignY=65&descSize=16" width="100%"/>
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00F5A0&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Crafting+blazing-fast+UIs+%E2%9A%A1;Engineering+secure+%26+scalable+APIs+%F0%9F%94%90;Turning+coffee+into+code+%E2%98%95%F0%9F%92%BB;Full-Stack+%40+RentInTbilisi+%F0%9F%8C%8D;Automating+everything+%F0%9F%A4%96" alt="Typing SVG" />
