@@ -109,29 +109,11 @@ const Azhar = {
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azharudeenssss-creator&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&border_radius=12" /> <img width="49%" src="https://streak-stats.demolab.com?user=azharudeenssss-creator&theme=github-dark&hide_border=true&border_radius=12&mode=weekly" /> <br/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharudeenssss-creator&theme=github_dark&hide_border=true&layout=donut&border_radius=12" /> </div>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharudeenssss-creator&theme=github_dark&hide_border=true&layout=donut&border_radius=12" />
-
-</div>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azharudeenssss-creator&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abi-de-jo&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00bcd4&point=ffffff&area=true&area_color=00bcd4&hide_border=true&radius=8" width="100%"/>
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=azharudeenssss-creator&theme=react-dark&bg_color=0d1117&color=00f5a0&line=00bcd4&point=ffffff&area=true&area_color=00bcd4&hide_border=true&radius=8" width="100%"/> </div>
 
 ---
 
@@ -171,21 +153,12 @@ const Azhar = {
 </div>
 
 ---
+Top Contributed Repos
+<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=azharudeenssss-creator&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-## 🔝 Top Contributed Repos
+"First, solve the problem. Then, write the code."
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abi-de-jo&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
+Built with ❤️ & ☕ by Azharudeen
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-**"First, solve the problem. Then, write the code."** — John Johnson
-
-*Built with ❤️ & ☕ by Abi*
-
-</div>
+</div> ```
