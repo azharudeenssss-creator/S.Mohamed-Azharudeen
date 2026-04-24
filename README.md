@@ -128,7 +128,7 @@ const Azhar = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abi-de-jo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=azharudeenssss-creator&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
