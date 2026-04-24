@@ -142,8 +142,6 @@ const Azhar = {
 Top Contributed Repos
 <div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=azharudeenssss-creator&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" /> </div>
 ---
-
-<p align="center">
 <p align="center"><b>"First, solve the problem. Then, write the code."</b></p>
 
 <p align="center">Built with ❤️ & ☕ by <b>Azharudeen</b></p>
