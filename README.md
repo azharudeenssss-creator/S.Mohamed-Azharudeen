@@ -23,15 +23,14 @@
 <td width="55%" valign="top">
 
 ```ts
-const abi = {
-  name: "Abisheik (Abi)",
+const Azhar = {
+  name: "S.Mohamed Azharudeen",
   role: "Full-Stack Developer",
-  company: "RentInTbilisi",
-  location: "Building on the internet",
+  company: "Codetech technology",
+  location: "Tamilnadu",
   stack: [
     "React", "Next.js",
     "TypeScript", "Node.js",
-    "Prisma", "GraphQL"
   ],
   database: [
     "MongoDB", "PostgreSQL", "Redis"
